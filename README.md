@@ -38,11 +38,9 @@ The dashboard provides key business insights such as:
 ## 📌 Requirements
 
 - Power BI Desktop (latest version recommended)
-  > [Download Power BI Desktop](https://powerbi.microsoft.com/desktop)
-
----
 
 ## 📷 Dashboard Preview
+<img width="1334" height="746" alt="image" src="https://github.com/user-attachments/assets/0e321d26-c339-4129-982a-6f907cb86398" />
 
-*You can add a screenshot of the dashboard here (optional):*
+
 
